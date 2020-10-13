@@ -1,6 +1,6 @@
 # kk07ti3c
-# Project title
- 
+# Własne repozytorium kodu
+
 This project simply solves `this` problem.
  
 Simple code example 
@@ -14,29 +14,28 @@ $object = new Class(1, 2, 3)
 $object->makeAwesome($data);
 ```
  
-## Documentation
+## Dokumentacja
  
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+Moja dokumentacja dotycząca prace w domu z zajęc projektowanie i systemy baz danych.
  
-## Installation
- 
-You can install it with Composer:
+## Instalacja
+
+Instalacja została wykonana na zajęciach:
  
 ```
-composer require vendor/project
+https://github.com/Kadix1337/kk07ti3c
 ```
  
-## Features
+## Cel i funkcje
  
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+* zbiór elementu pracy w domu
+* możliwość pomocy kolegów z zespołu projektowego
+* nadzór kierownika projektu
  
-## Contribute
+## Wkład projektowy
  
-* Issue Tracker: github.com/vendor/project/issues
+* Główny nadzór: github.com
 * Source Code: github.com/vendor/project
-* Tests: phpunit
  
 ## License
  
